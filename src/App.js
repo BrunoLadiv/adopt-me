@@ -1,7 +1,7 @@
 
 
 
-App = () => {
+const App = () => {
   return React.createElement('h1',{}, 'Hello World Bahia ' )
 };
 
