@@ -18,6 +18,10 @@
   },
   "homepage": "https://github.com/BrunoLadiv/adopt-me#readme",
   "devDependencies": {
-    "prettier": "^2.8.3"
+    "@vitejs/plugin-react": "^3.1.0",
+    "eslint": "^8.33.0",
+    "eslint-config-prettier": "^8.6.0",
+    "prettier": "^2.8.3",
+    "vite": "^4.1.1"
   }
 }
