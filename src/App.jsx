@@ -1,7 +1,16 @@
+import React from "react";
+import { createRoot } from "react-dom/client";
+import SearchParams from "./SearchParams";
+
 const App = () => {
-  return React.createElement("h1", {}, "Hello World Bahia ");
+  return (
+    <div>
+      <h1>Adopt Me</h1>
+      <SearchParams />
+    </div>
+  );
 };
 
 const root = document.getElementById("root");
 
-ReactDOM.createRoot(root).render(App());
+createRoot(root).render(<App />);
