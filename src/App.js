@@ -1,11 +1,7 @@
-
-
-
 const App = () => {
-  return React.createElement('h1',{}, 'Hello World Bahia ' )
+  return React.createElement("h1", {}, "Hello World Bahia ");
 };
 
+const root = document.getElementById("root");
 
-const root = document.getElementById('root')
-
-ReactDOM.createRoot(root).render(App())
+ReactDOM.createRoot(root).render(App());
