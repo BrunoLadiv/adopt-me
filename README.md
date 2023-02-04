@@ -1,5 +1,5 @@
 # Adopt-Me
-https://adopt-me-frontendmasters-project.netlify.app/
+# https://adopt-me-frontendmasters-project.netlify.app/
 Adopt-Me is a web application built with React and Vite. It allows users to search for pets to adopt.
 
 ## Installation
